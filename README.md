@@ -1,3 +1,5 @@
+Tiny opsec st patched terminal with another colo scheme and font 
+
 ## Installation
 
 Build and install from source:
