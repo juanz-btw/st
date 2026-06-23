@@ -1,0 +1,4 @@
+st
+*.o
+*.tar.gz
+config.keys.h
